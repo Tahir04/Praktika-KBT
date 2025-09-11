@@ -1,6 +1,6 @@
 # KBT
 
-**KBT** is an interactive web project designed to provide users with a smooth and engaging experience. The project is developed using HTML, CSS, and JavaScript, featuring a clean and user-friendly interface. This project was completed as a *team effort*.
+**KBT** is an interactive web project designed to provide users with a smooth and engaging experience. The project is developed using **HTML**, **CSS**, and **JavaScript**, *featuring a clean and user-friendly interface*.
 
 ## JavaScript Features
 
